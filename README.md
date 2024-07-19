@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently completed my diploma I work with backend framework like django and  react<br>
+<br>
 
 
 # 💻 Tech Stack:
